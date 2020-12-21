@@ -1,0 +1,21 @@
+/** @format */
+
+.displayUponClick {
+  display: none;
+}
+
+.displayDiv {
+  display: none;
+}
+
+.displayDivShow {
+  display: block;
+}
+
+.descriptionDiv {
+  display: block;
+}
+
+.descriptionDivShow {
+  display: none;
+}

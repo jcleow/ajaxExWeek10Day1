@@ -1,4 +1,4 @@
-export default function items(db) {
+export default function selectedItem(db) {
   const index = (request, response) => {
     db.Item.findAll()
       .then((items) => {

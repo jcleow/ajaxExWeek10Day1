@@ -1,6 +1,6 @@
 module.exports = {
   development: {
-    username: '<YOUR_USERNAME>',
+    username: process.env.USER,
     password: null,
     database: 'ajax_ecom_development',
     host: '127.0.0.1',
